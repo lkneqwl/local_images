@@ -2,4 +2,4 @@
 
 ## v0.1.0
 
-- Initial local_image release.
+- Initial local_images release.
