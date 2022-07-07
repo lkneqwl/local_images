@@ -10,7 +10,6 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Local images for seed-scripts."
   spec.description   = "Ruby library which contains some images for your seed.rb scripts."
-  spec.homepage      = "https://theglitchy.com"
   spec.license       = "MIT"
 
   spec.metadata["homepage_uri"]    = spec.homepage
